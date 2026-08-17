@@ -1,0 +1,6 @@
+{
+  "name": "NebengCuy! - Platform Komuter Mahasiswa UNSRI",
+  "description": "Platform patungan bensin & tebengan khusus mahasiswa UNSRI Palembang - Indralaya",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
